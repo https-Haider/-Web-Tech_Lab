@@ -1,0 +1,51 @@
+.container{
+    border: 4px solid black;
+    background: bla;
+}
+
+
+.header{
+border: 6px solid sandybrown;
+    background: green;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    padding-top: 25px;
+}
+.menu{
+border: 6px solid sandybrown;
+    background: azure;
+    text-align: center;
+    font-size: 50px;
+    height: 100px;
+    padding-top: 25px;
+}
+.aside{
+border: 6px solid sandybrown;
+background: royalblue;
+display: inline-block;
+width: 400px;
+    height: 500px;
+
+    font-size: 50px;
+
+}
+.content{
+border: 6px solid sandybrown;
+background: darkgrey;
+display: inline-block;
+width: 1068px;
+    height: 500px;
+
+    font-size: 50px;
+
+}
+
+.footer{
+    border: 6px solid sandybrown;
+        background: palevioletred;
+        text-align: center;
+        font-size: 50px;
+        height: 100px;
+        padding-top: 25px;
+    }
